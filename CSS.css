@@ -168,8 +168,8 @@ div.gallery {
 }
 
 div.gallery:hover {
-  border: 10px solid #797214;
-  background-color: #797214;
+  border: 10px solid darkred;
+  background-color: darkred;
   color: black;
 }
 div.desc {
@@ -208,7 +208,7 @@ div.gallery img {
   color: black;
   font-size: 10pt;
   font-weight: bold;
-  background-color: #7e7e7e;
+  background-color: darkred;
 }
 
 @media screen and (max-width: 767px) {
